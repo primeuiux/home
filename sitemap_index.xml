@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://primeuiux.github.io/home/sitemap-stylesheet.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/archives-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/post-type-elementor-hf-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/post-type-elementor_library-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/post-type-page-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/post-type-post-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/post-type-sureforms_form-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://primeuiux.github.io/home/taxonomy-type-category-sitemap-1.xml</loc>
+    <lastmod>2026-09-23T23:06:28+00:00</lastmod>
+  </sitemap>
+</sitemapindex>
